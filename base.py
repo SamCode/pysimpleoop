@@ -1,4 +1,4 @@
-"""Recreating OOP without using data structures associated with OOP.
+"""Recreating OOP using simple, primitive data structures in Python.
 
 The essential data structures and language constructs required to recreate
 OOP in this module are:
